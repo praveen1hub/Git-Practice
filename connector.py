@@ -1,8 +1,4 @@
-import mysql.connector as db
 
-con=db.connect(username="root",
-           password="Dileep@08",
-           host="localhost")
 
 
 cur=con.cursor()
